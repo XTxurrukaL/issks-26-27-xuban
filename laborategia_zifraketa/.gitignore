@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Laborategian sortutako fitxategi sekretuak/irteerak
+gako.txt
+mezua.txt
+*.aes
+*.3des
+*.des
+*.deszifratua
